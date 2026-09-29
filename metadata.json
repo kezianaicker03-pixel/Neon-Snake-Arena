@@ -1,0 +1,6 @@
+{
+  "name": "Neon Snake Arena",
+  "description": "A colourful, fast-paced arcade game where glowing neon snakes battle for food and survival in a vibrant arena.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
